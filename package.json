@@ -1,0 +1,22 @@
+{
+  "name": "partner-node-project",
+  "version": "1.0.0",
+  "description": "Node JS project, designed to help show Cisko basics of Partner Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viet-vo/partner-node-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viet-vo/partner-node-project/issues"
+  },
+  "homepage": "https://github.com/viet-vo/partner-node-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
